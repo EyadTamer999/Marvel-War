@@ -1,0 +1,1 @@
+Marvel War is a turn-based game made using Java Object Oriented Programming and the Java Swing Graphic User Interface library. This Project was made by Eyad Hassan, Ali Mustafa Zein, and Gerges Daniel, first year Computer Science and Informatics students of the German International University.
